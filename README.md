@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Niv 👋
 
-<!--
-**NivL1/NivL1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Tech Lead & Backend Engineer with 5+ years of experience building scalable, production-grade systems.
 
-Here are some ideas to get you started:
+Currently leading development and AI initiatives at HopOn, driving projects end-to-end — from architecture to deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I Do
+- Design and build **microservices-based systems**
+- Lead **backend architecture & development**
+- Work with **cloud infrastructure (AWS)**
+- Drive **AI adoption** to improve developer productivity
+
+---
+
+## 🛠 Tech Stack
+- **Backend:** Node.js, NestJS, Python
+- **Frontend:** React.js
+- **Cloud & DevOps:** AWS, Docker, Jenkins
+- **Databases:** PostgreSQL, MongoDB, Redis
+- **Architecture:** Microservices, REST APIs
+
+---
+
+## 📌 Featured Work
+*(I’m currently working on adding and polishing projects here — stay tuned)*
+
+---
+
+## 📫 Contact
+- Email: nivmail4@gmail.com
+- LinkedIn: https://www.linkedin.com/in/niv-lusky-005956184/
