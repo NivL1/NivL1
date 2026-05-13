@@ -1,55 +1,59 @@
-# Hi, I'm Niv 👋
+<h1 align="center">Hi, I'm Niv 👋</h1>
 
-💻 Tech Lead & Backend Engineer focused on building scalable, production-grade systems and leading backend architecture in high-impact environments.
+<p align="center">
+  <b>Tech Lead &amp; Backend Engineer</b> — building scalable, production-grade systems.<br/>
+  Currently leading backend architecture and AI initiatives at <b>HopOn</b>.
+</p>
 
-Currently leading development and AI initiatives at HopOn, driving projects end-to-end — from system design to deployment.
-
----
-
-## 🚀 What I Do
-
-* Design and build scalable **microservices-based systems**
-* Lead **backend architecture and development**
-* Work with **cloud infrastructure (AWS)**
-* Drive **AI adoption** to improve engineering productivity
+<p align="center">
+  <a href="https://www.linkedin.com/in/niv-lusky-005956184/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/></a>
+  <a href="mailto:nivmail4@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/></a>
+</p>
 
 ---
 
-## 🏆 Key Achievements
+### What I do
 
-* 🚀 Led migration to containerized architecture, improving scalability and reducing infrastructure costs
-* ⚡ Improved system performance and reliability through backend optimizations and architectural improvements
-* 🤖 Introduced AI tools and workflows to enhance developer productivity and reduce development time
+I design and lead backend systems end-to-end — from system design to deployment — and bring AI into engineering workflows so teams ship faster without sacrificing rigor.
 
----
+- 🏗 Microservices design and backend architecture leadership
+- ☁️ AWS cloud infrastructure (Docker, Jenkins CI/CD)
+- 🤖 Practical AI adoption for engineering productivity (PR review, on-call assist, internal RAG)
+- 📈 Performance, observability, and reliability work in production systems
 
-## 🛠 Tech Stack
+### Featured Work
 
-* **Backend:** Node.js (NestJS), Python
-* **Frontend:** React.js
-* **Cloud & DevOps:** AWS, Docker, CI/CD (Jenkins)
-* **Databases:** PostgreSQL, MongoDB, Redis
-* **Architecture:** Microservices, REST APIs
+| Repo | What it is | Stack |
+|---|---|---|
+| **[ai-pr-reviewer](https://github.com/NivL1/ai-pr-reviewer)** | NestJS service + GitHub Action that runs LLM-powered code review on pull requests. HMAC-validated webhooks, provider-agnostic LLM layer, dockerized. | NestJS · TypeScript · Anthropic · Docker |
+| _coming next_ | NestJS microservice starter (Postgres, Redis, JWT, OpenAPI, CI/CD) | NestJS · Docker · GitHub Actions |
+| _coming next_ | AWS reference architecture (Terraform/CDK) | AWS · IaC |
 
----
+### Tech Stack
 
-## 📌 Featured Work
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" alt="NestJS"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="Postgres"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis"/>
+</p>
 
-Currently working on adding and polishing production-grade and side projects.
+### GitHub stats
 
-My professional experience includes:
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=NivL1&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NivL1&layout=compact&hide_border=true&theme=transparent" alt="Top languages" height="160"/>
+</p>
 
-* Designing and scaling backend systems in production environments
-* Leading end-to-end feature development
-* Driving architectural decisions in a microservices ecosystem
+### Let's connect
 
----
+I enjoy talking through backend architecture, scaling pain, and where LLMs actually move the needle in engineering teams.
 
-## 📫 Contact
-
-* Email: [nivmail4@gmail.com](mailto:nivmail4@gmail.com)
-* LinkedIn: https://www.linkedin.com/in/niv-lusky-005956184/
-
----
-
-⚡ I enjoy solving complex backend problems and turning ideas into scalable systems.
+📫 [nivmail4@gmail.com](mailto:nivmail4@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/niv-lusky-005956184/)
