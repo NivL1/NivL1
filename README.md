@@ -25,6 +25,7 @@ I design and lead backend systems end-to-end — from system design to deploymen
 
 | Repo | What it is | Stack |
 |---|---|---|
+| **[repo-intelligence](https://github.com/NivL1/repo-intelligence)** — [Live demo](https://repo-intelligence-demo.fly.dev) | Codebase intelligence for TypeScript repos: a compiler-built symbol graph plus AST-aware RAG, exposed as `impact` (blast radius), `map` (architecture diagrams), and `ask` (cited Q&A). The demo runs it against its own source code. | NestJS · TypeScript · ts-morph · Postgres · pgvector · Docker |
 | **[ai-pr-reviewer](https://github.com/NivL1/ai-pr-reviewer)** — [Marketplace](https://github.com/marketplace/actions/nivl1-ai-pr-reviewer) | NestJS service + GitHub Action that runs LLM-powered code review on pull requests. Incremental re-review (no duplicate comments across pushes), HMAC-validated webhooks, dockerized. | NestJS · TypeScript · Anthropic · Docker |
 | **[nestjs-ai-starter](https://github.com/NivL1/nestjs-ai-starter)** | Production-grade NestJS microservice starter — Postgres, Redis, JWT auth (refresh-token rotation), OpenAPI — with a built-in pgvector semantic search module: pluggable embeddings provider, Redis-backed embedding cache, cosine-similarity search. Dockerized, CI on every PR. | NestJS · TypeScript · Postgres · pgvector · Redis · Docker |
 | _coming next_ | AWS reference architecture (Terraform/CDK) | AWS · IaC |
